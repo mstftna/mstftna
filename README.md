@@ -41,7 +41,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mstftna/mstftna/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mstftna/mstftna/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
